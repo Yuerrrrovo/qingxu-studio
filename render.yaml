@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: qingxu-studio
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /healthz
+    envVars:
+      - key: AI_PROVIDER
+        value: DeepSeek
+      - key: AI_BASE_URL
+        value: https://api.deepseek.com
+      - key: AI_MODEL
+        value: deepseek-flash
+      - key: AI_JSON_MODE
+        value: "true"
+      - key: AI_API_KEY
+        sync: false
+      - key: QINGXU_ACCESS_PASSWORD
+        generateValue: true
+      - key: QINGXU_ENABLE_VISION
+        value: "true"
+      - key: QINGXU_FRONTEND_ORIGIN
+        value: https://icik13.kicp.fun

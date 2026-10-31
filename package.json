@@ -1,0 +1,8 @@
+{
+  "name": "qingxu-hosted-demo",
+  "version": "1.8.1-hosting.1",
+  "private": true,
+  "description": "Original Qingxu app with an isolated hosting gateway",
+  "engines": {"node": ">=22"},
+  "scripts": {"start": "node hosting/start.cjs", "test": "node --test hosting/gateway.test.cjs"}
+}

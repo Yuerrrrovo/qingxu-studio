@@ -1,0 +1,170 @@
+[
+  {
+    "path": "accounts-core.cjs",
+    "sha256": "067f6b10e7380d307c248ebbb9dded1c0b346d923fe5683c7619880b71341487"
+  },
+  {
+    "path": "activity-context.cjs",
+    "sha256": "205d2234231c03247294e5d604a4711d229c49a4637ec970b1ec263c578df989"
+  },
+  {
+    "path": "agent-actions.cjs",
+    "sha256": "dafcd3a5492126377ba168616d1fd0f9bc728cb964df5a4f990b173b7807bd5b"
+  },
+  {
+    "path": "agent-core.cjs",
+    "sha256": "c1c900a5492f1b2326079083cd8a0b239123b03ddf2e65163d9b4e725d64f0dd"
+  },
+  {
+    "path": "agent.test.cjs",
+    "sha256": "221ac9b6f42b031955ea0e3ed45a0ce47564ccf459db41532a59b3d161f7722e"
+  },
+  {
+    "path": "camera.cjs",
+    "sha256": "955f3b04e469c60068ec21ed9d0307030f56f21d75555199518c5436e5d3a3df"
+  },
+  {
+    "path": "care-core.cjs",
+    "sha256": "3f66b2fbccb10815727bef727ad11d057588c835f4ddca7d08d8a648fb472186"
+  },
+  {
+    "path": "index.html",
+    "sha256": "2e1457ac389696f2a4111cb99bfef8027290a126bbcb231a6d80062ec968dbe1"
+  },
+  {
+    "path": "mobile-assets.cjs",
+    "sha256": "d28b8e034785122b695dc2837f0779f0eb59b4c4288a86c5fe771e19b1df129c"
+  },
+  {
+    "path": "mobile-gateway.cjs",
+    "sha256": "84f8aa536838885c12b718a2e5be15cc1dc20ab8c53badf801122fb36ac69f81"
+  },
+  {
+    "path": "motion.cjs",
+    "sha256": "9209e8ec233641a58f107c883391381255b466db14af18a1f402fc6631d79815"
+  },
+  {
+    "path": "run-integrated.cjs",
+    "sha256": "af0317f00e3e6313ed75e46a4eef587d6559e2688ec513ae3aee285acbc6a045"
+  },
+  {
+    "path": "server.cjs",
+    "sha256": "32ddb5f9fd9fedc4f24280ed4ea836951311487cb1ff53508f7c0dee9ebab0d5"
+  },
+  {
+    "path": "training-core.cjs",
+    "sha256": "b348dcff43810362a879e10c1d38ff8c3eb416c081157dfde625d9da6726e506"
+  },
+  {
+    "path": "tutorial-media.cjs",
+    "sha256": "cfca15bcc8453eadccc6eb3e74d801bf1eb9a603e08c80f2ffc7fb324dd705ac"
+  },
+  {
+    "path": "video.cjs",
+    "sha256": "a644c60d9726183f8710769c058e79ffbb2c28fc2c97aeae326acf18ff563069"
+  },
+  {
+    "path": "assets/tutorials/chest-1.jpg",
+    "sha256": "2ea9140fcf26a4b190dbd2a2931fbfa45114e35182138c4e0d63cb0138605c0f"
+  },
+  {
+    "path": "assets/tutorials/chest-1.mp4",
+    "sha256": "25e54eaf89b3075d829461ab3b07817ef8fe0d62b607ea7f3137b06ceec58ac5"
+  },
+  {
+    "path": "assets/tutorials/chest-2.jpg",
+    "sha256": "619da2296005550e98d9c1b34e03eb9eba6e795f09c562bb2224556afd152e7e"
+  },
+  {
+    "path": "assets/tutorials/chest-2.mp4",
+    "sha256": "23cd4ea68840ea942423338d9b5ac67d78cf0f95fa123f71da064102504e250e"
+  },
+  {
+    "path": "assets/tutorials/footwork-1.jpg",
+    "sha256": "1b5f7c488e6327766313fb74f59c231f53f1e0bd97bca64fbee07b18761c8f1d"
+  },
+  {
+    "path": "assets/tutorials/footwork-1.mp4",
+    "sha256": "edb5cb6458a1b7a0ee214b909f13b13bcee3fb771bd6514b6462cd34003cbcb9"
+  },
+  {
+    "path": "assets/tutorials/footwork-2.jpg",
+    "sha256": "2bd657abb27efbf1ac005abdff5dbf8ded48d1b8b08c89202c5962e9f7e97210"
+  },
+  {
+    "path": "assets/tutorials/footwork-2.mp4",
+    "sha256": "1513b742d97a3d7f6a36d3d084a441dfb86d16deebd09dfb310da97b262f0108"
+  },
+  {
+    "path": "assets/tutorials/manifest.json",
+    "sha256": "74439c484d85187df79d9b25197179d65dee6f6ac22a3e73b639e2e986213206"
+  },
+  {
+    "path": "assets/tutorials/pelvic-1.jpg",
+    "sha256": "0bf97f6994e01016aadc34a032f3edbf5cfdb1552a2dadf1e5d306df21ab6ad8"
+  },
+  {
+    "path": "assets/tutorials/pelvic-1.mp4",
+    "sha256": "1860c132cf9176b1c04fc9afb59e827e449e002d1a8ff2a5d2671c6bdfe2f016"
+  },
+  {
+    "path": "assets/tutorials/pelvic-2.jpg",
+    "sha256": "5ea32674ca95c5f732b5951c5d842f9fe5976bd65b1b1c01763fbc22671677cb"
+  },
+  {
+    "path": "assets/tutorials/pelvic-2.mp4",
+    "sha256": "47ef0b83d044924ab484d0e1e24f3df55cc9fa99251fd25c8662bb07b9bf9479"
+  },
+  {
+    "path": "assets/tutorials/shortbox-1.jpg",
+    "sha256": "63b39c10da2dc944be32e550e864441e8414a68280419d39757392488e52b8e8"
+  },
+  {
+    "path": "assets/tutorials/shortbox-1.mp4",
+    "sha256": "162489c2cb8c801e7fe91ca5ae9a722938a883505fd134d1a6f4af78b214cb20"
+  },
+  {
+    "path": "assets/tutorials/shortbox-2.jpg",
+    "sha256": "f20b04291f576c0184aa89a57ce7bbc00ecb97bcf39fd6716e847e7fc98afad1"
+  },
+  {
+    "path": "assets/tutorials/shortbox-2.mp4",
+    "sha256": "287ab9dea5ec1ffd375d7e92ebf24d46d855118bb683ba7de3c978327d406160"
+  },
+  {
+    "path": "assets/tutorials/straps-1.jpg",
+    "sha256": "d9a1653913ebf6678ea538324dd35cab87f38b697e39df218dd3a568fe89cba1"
+  },
+  {
+    "path": "assets/tutorials/straps-1.mp4",
+    "sha256": "f3c8df66f2fc6c5e4c33f6d3c68967dee799e9793db2dc74482429b21d3d6d25"
+  },
+  {
+    "path": "assets/tutorials/straps-2.jpg",
+    "sha256": "7a4e941990fd4f6b768e32eaf63c24424883cb017f33b01c904cf89893075897"
+  },
+  {
+    "path": "assets/tutorials/straps-2.mp4",
+    "sha256": "e8346cadfedb4f5cd4db877e5cdad8220c2cd437323b3cf9289c2ad53c9d2bc4"
+  },
+  {
+    "path": "vision/camera_source.py",
+    "sha256": "2b24f25bbb580c6f15a457f8ae48777e8bc4b46b501cadef88bc0a3f2b08e693"
+  },
+  {
+    "path": "vision/reformer_engine.py",
+    "sha256": "d937988bcef703642106c72198d188274d79064d87e7436ab32f6fcf1f08ae2e"
+  },
+  {
+    "path": "vision/reformer_reference.py",
+    "sha256": "59524c398237d413f796a1a2273793216e70b1ebc22c805611ca23918b09e350"
+  },
+  {
+    "path": "vision/requirements.txt",
+    "sha256": "9ace4754590754ff900422b24dc2b9a2eaf7a7ff6c4b12f9afb115ab7c191bd8"
+  },
+  {
+    "path": "vision/service.py",
+    "sha256": "a24f037e326a019ed94cc57733a185a4636ab8e1aa13b1df72213e631b98d28c"
+  }
+]
